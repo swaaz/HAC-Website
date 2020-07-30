@@ -362,6 +362,9 @@ ul li a {
 .sponsor-logos {
 	width: 27.5%;
 }
+.mlh-logo {
+	width: 20%;
+}
 .sponsor-logos-2 {
 	width: 25%;
 }
@@ -373,7 +376,11 @@ ul li a {
 }
 
 .de-logo {
-	width: 65%;
+	margin-top: 20px;
+	width: 50%;
+}
+.sashi-logo {
+	width: 50%;
 }
 .wolfram-logo {
 	width: 52%;
@@ -382,15 +389,41 @@ ul li a {
 	width: 50%;
 }
 .gmc-logo {
-	padding-top: 4%;
-	width: 55%;
+	padding-top: 10%;
+	width: 80%;
 }
 .bugsee-logo {
-	width: 25%;
+	width: 35%;
 	margin-bottom: 20px;
 }
 .jet-logo {
 	width: 40%;
+	margin-top: 4%;
+	margin-bottom: 20px;
+}
+.spi-logo {
+	margin-top: 2%;
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.coffee-logo {
+	width: 37%;
+	margin-bottom: 20px;
+}
+.zubi-logo {
+	margin-top: 6%;
+	width: 20%;
+	margin-bottom: 20px;
+}
+.sticker-logo {
+	width: 140%;
+	margin-bottom: 20px;
+}
+.alert-logo {
+	height: 30%;
+	width: 30%;
+	margin-left: 50%;
 	margin-bottom: 20px;
 }
 .voice-logo {
@@ -442,7 +475,9 @@ ul li a {
 .join-team {
 	margin: 15px auto 0 auto;
 }
-
+.join-vol {
+	margin: 15px auto 5% auto;
+}
 .team-text {
 	font-size: 2em;
 	font-family: quicksand;
@@ -759,9 +794,12 @@ ul li a {
 		margin-bottom: 10%;
 	}
 	.join-team {
-		margin: 10% auto 20% auto;
+		margin: 10% auto 0 auto;
 	}
 
+	.join-vol {
+		margin: 3% auto 20% auto;
+	}
 	.title-sponsor {
 		padding-top: 17.5% !important;
 	}
@@ -788,10 +826,15 @@ ul li a {
 		margin-top: 1%;
 		margin-bottom: 12%;
 	} */
+
+
+	
 	.sponsor-logos {
 		width: 90%;
 	}
-
+	.mlh-logo {
+		width: 70%;
+	}
 	.sponsor-logos-2 {
 		width: 87.5%;
 	}
@@ -818,6 +861,10 @@ ul li a {
 		width: 80%;
 		margin-bottom: 50px;
 	}
+	.sashi-logo {
+		width: 80%;
+		margin-bottom: 50px;
+	}
 	.echo-logo {
 		width: 78%;
 		margin-bottom: 50px;
@@ -840,8 +887,34 @@ ul li a {
 		margin-bottom: 50px;
 	}
 	.jet-logo {
-		width: 50%;
+		width: 70%;
 		margin-bottom: 50px;
+	}
+	.spi-logo {
+		width: 70%;
+		margin-bottom: 50px;
+	}
+	.coffee-logo {
+		width: 70%;
+		margin-bottom: 50px;
+
+	}
+	.zubi-logo {
+		width: 30%;
+		margin-bottom: 50px;
+
+	}
+	.sticker-logo {
+		width: 100%;
+		margin-bottom: 50px;
+
+	}
+
+	.alert-logo {
+		width: 50%;
+		padding-left: 0;
+		margin-bottom: 10px;
+
 	}
 	.details {
 		margin-top: 10%;
